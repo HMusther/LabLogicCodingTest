@@ -1,0 +1,16 @@
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\bin\Debug\net5.0\TreeViewApplication.exe
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\bin\Debug\net5.0\TreeViewApplication.deps.json
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\bin\Debug\net5.0\TreeViewApplication.runtimeconfig.json
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\bin\Debug\net5.0\TreeViewApplication.runtimeconfig.dev.json
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\bin\Debug\net5.0\TreeViewApplication.dll
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\bin\Debug\net5.0\ref\TreeViewApplication.dll
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\bin\Debug\net5.0\TreeViewApplication.pdb
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\obj\Debug\net5.0\TreeViewApplication.csproj.AssemblyReference.cache
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\obj\Debug\net5.0\TreeViewApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\obj\Debug\net5.0\TreeViewApplication.AssemblyInfoInputs.cache
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\obj\Debug\net5.0\TreeViewApplication.AssemblyInfo.cs
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\obj\Debug\net5.0\TreeViewApplication.csproj.CoreCompileInputs.cache
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\obj\Debug\net5.0\TreeViewApplication.dll
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\obj\Debug\net5.0\ref\TreeViewApplication.dll
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\obj\Debug\net5.0\TreeViewApplication.pdb
+C:\Users\hmust\source\repos\TreeViewApplication\TreeViewApplication\obj\Debug\net5.0\TreeViewApplication.genruntimeconfig.cache
